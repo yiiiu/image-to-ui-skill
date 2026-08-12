@@ -1,0 +1,5 @@
+node_modules/
+demo/*/screenshots/validate-*.png
+demo/*/.image2-ui/
+demo/*/dist/
+.DS_Store
